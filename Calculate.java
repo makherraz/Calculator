@@ -1,3 +1,5 @@
+import java.lang.*;//test
+import java.util.*;
 public class Calculate {
 
 	public int mult(int x, int y) {
